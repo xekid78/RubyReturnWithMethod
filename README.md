@@ -1,0 +1,2 @@
+# RubyReturnWithMethod
+メソッドでリターンがある場合
